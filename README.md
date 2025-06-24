@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я Дмитрий aka dim-pep 👋
 
-<!--
-**dim-pep/dim-pep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Go-разработчик. Буду рад любым коллаборациям.
 
-Here are some ideas to get you started:
+## Технологии и инструемнты 
+- Язык Go: интерфейсы, горутины, каналы, работа с памятью, тестирование;
+- HTTP/REST API(REST API);
+- SQL и базы данных: PostgreSQL,SQLite;
+- Linux: Debian,Ubuntu,ALT linux,;
+- Основы CI/CD (GitHub Actions) и работы с Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- Telegram: @dim_pep <- предпочтительно 
+- Email: Pepidastr@yandex.ru
+
+### Хобби 
+В качестве хобби занимаюсь разработкой игр на движках Godot,Ren`py.
+Если хотите сделать что-нибудь вместе, пишите :) 
