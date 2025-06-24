@@ -4,7 +4,7 @@
 
 ## Технологии и инструемнты 
 - Язык Go: интерфейсы, горутины, каналы, работа с памятью, тестирование;
-- HTTP/REST API(REST API);
+- HTTP/REST API;
 - SQL и базы данных: PostgreSQL,SQLite;
 - Linux: Debian,Ubuntu,ALT linux,;
 - Основы CI/CD (GitHub Actions) и работы с Docker.
