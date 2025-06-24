@@ -13,6 +13,9 @@
 - Telegram: @dim_pep <- предпочтительно 
 - Email: Pepidastr@yandex.ru
 
+## Проекты
+Планировщик задач - https://github.com/dim-pep/go-final-project
+
 ### Хобби 
 В качестве хобби занимаюсь разработкой игр на движках Godot,Ren`py.
 Если хотите сделать что-нибудь вместе, пишите :) 
