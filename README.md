@@ -14,7 +14,10 @@
 - Email: Pepidastr@yandex.ru
 
 ## Проекты
+
 Планировщик задач - https://github.com/dim-pep/go-final-project
+Онлайн чат - https://github.com/dim-pep/WebSocket-Chat
+Трекер тренировок - https://github.com/dim-pep/two_project
 
 ### Хобби 
 В качестве хобби занимаюсь разработкой игр на движках Godot,Ren`py.
